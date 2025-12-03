@@ -76,5 +76,3 @@ node dist/server.js
 - Main server file: `src/server.ts`.
 - TypeScript config: `tsconfig.json`.
 - npm scripts and deps: `package.json`.
-
-If you want, I can also add a `build` script to `package.json`, or a sample `.env.example` file. Which would you like next?
